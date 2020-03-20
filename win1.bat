@@ -1,3 +1,3 @@
-@EHCO OFF
-EHCO hello, this is my batch file.
+@ECHO OFF
+ECHO hello, this is my batch file.
 PAUSE
